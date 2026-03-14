@@ -8,7 +8,9 @@ Our solution incorporated several sensors working together to monitor environmen
 
 All sensor data was processed using an ESP32 microcontroller. The ESP32 ran an equation that combined the measured variables to estimate the stress level of the conductor and determine whether the line was operating within safe limits. The system then transmitted the status of the line (safe vs. stressed) to a mobile device via Bluetooth, providing a simple real time monitoring interface. The entire system—including hardware integration, sensor calibration, and C++ programming—was designed and implemented within the 24 hour competition window.
 
-
-Link to video of presnetation: https://www.youtube.com/shorts/23V-NVDwGgY
+Link to video of presentation: https://www.youtube.com/shorts/23V-NVDwGgY
 
 Link to Make OHI/O Website: https://hack.osu.edu/make/2026/
+
+
+
