@@ -13,4 +13,8 @@ Link to video of presentation: https://www.youtube.com/shorts/23V-NVDwGgY
 Link to Make OHI/O Website: https://hack.osu.edu/make/2026/
 
 
+**Navigation Guide**
 
+*LiDAR.ino:* Code of the lidar section of the project
+
+*Main_code.ino:* The main code being ran.
