@@ -1,4 +1,4 @@
-# Make-OHIO-Project
+# Make-OHIO-Project (First Place!)
 
 MakeOHIO is a hackathon-style event hosted by students at The Ohio State University in which teams have 24 hours to design, build, and implement a solution to a proposed engineering challenge. Projects are evaluated by industry professionals based on how well they perform their intended task and how effectively they address the larger problem.
 
